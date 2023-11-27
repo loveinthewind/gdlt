@@ -1,2 +1,0 @@
-# gdlt
-v2ray
